@@ -70,7 +70,7 @@ export const metadata = {
   },
 
   appleWebApp: {
-    title: "Nourishubs",
+    title: "VOGUE NEST",
   },
   // manifest: "/images/favicon/site.webmanifest",
 
